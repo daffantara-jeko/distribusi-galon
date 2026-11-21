@@ -1,0 +1,8 @@
+streamlit
+ortools
+openpyxl
+pandas
+numpy
+matplotlib
+folium
+requests
